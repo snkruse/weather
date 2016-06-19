@@ -10,7 +10,10 @@
 	<p><span id = "temp"></span></p>
 	<p><span id = "wind"></span></p>
 
-	<script src = "weatherReply.js"></script>
+	<script src = "weatherReply.js"> 	</script>
+
+
+
 
 </body>
 </html>
