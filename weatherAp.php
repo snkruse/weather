@@ -6,6 +6,9 @@
 	<title>Weather Application</title>
 </head>
 <body>
+
+
+
 	<form NAME="testform">
 		<input TYPE="button" NAME="button" Value="Click" 
 		    onClick="getCity(this.form)"><BR>
@@ -14,11 +17,13 @@
 		<input TYPE="checkbox" NAME="rad" Value="San Francisco"	>San Francisco	<BR>
 	</form>
 
-<!-- 	<img src="../weather/images/sun.png"/> -->
 
-	<div id = 'weather'></div>
+	<p><div id = 'weather'></div></p>
 	<p><span id = "temp"></span></p>
 	<p><span id = "wind"></span></p>
+<!-- 	<img src="../weather/images/sun.png"/> -->
+
+
 
 
 
